@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently studying Data Science, Neural Networks and Deep Learning
 
-📫 You can reach me by [Gmail](vlivons@gmail.com) or [Telegram](t.me/vlivon)
+📫 You can reach me by [Gmail](https://vlivons@gmail.com) or [Telegram](https://t.me/vlivon)
